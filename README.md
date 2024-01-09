@@ -31,5 +31,3 @@ Contributions to this project are welcome. To contribute:
 3. Push to the branch (git push origin feature/YourFeature).
 4. Open a pull request.
 
-
-This README provides a comprehensive overview of your project and instructions for interested parties to get started. Feel free to modify or expand it as needed for your GitHub repository.
