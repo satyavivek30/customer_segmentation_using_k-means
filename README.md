@@ -22,12 +22,3 @@ To set up your environment to run this notebook, follow these steps:
 ## Usage
 To use this project, simply run the Jupyter notebook from start to finish. The notebook contains detailed comments explaining each step of the process, from data loading and preprocessing to clustering and visualization.
 
-## Contributing
-Contributions to this project are welcome. To contribute:
-
-## Fork the repository.
-1. Create a new branch for your feature (git checkout -b feature/YourFeature).
-2. Commit your changes (git commit -am 'Add some YourFeature').
-3. Push to the branch (git push origin feature/YourFeature).
-4. Open a pull request.
-
